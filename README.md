@@ -1,4 +1,4 @@
 # Ejemplo-de-ATM
 
-Es el funcionamiento de un "Cajero automatico", donde ver las funciones de "Javasccript" 
-que permiten su ejecusion, desidiendo estas que billetes entregar.
+Es el funcionamiento de un "Cajero automatico", donde veras el uso de las funciones de "Javasccript" 
+que permiten la ejecucion del "Cajero", decidiendo estas "funciones" que billetes entregar, ademas muestra el saldo de dinero disponible.
